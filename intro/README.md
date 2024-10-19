@@ -10,6 +10,7 @@ python3 -m doctest example_script.py
 
 ## Ref
 
-* <https://docs.python.org/3.12/index.html>
+* <https://docs.python.org/3/tutorial/>
+* <https://docs.python.org/3.13/whatsnew/3.13.html>
 * <https://docs.python.org/3/library/doctest.html>
 * <https://github.com/fluentpython/example-code>

@@ -64,4 +64,6 @@ from inspect import signature
 
 ## 5.9 函数注解
 
-## 5.10 支持函数式编程的包
+**5.10.2 使用 functools.partial 冻结参数**
+
+* 部分应用是指，基于一个函数创建一个新的可调用对象，把原函数的某些参数固定
